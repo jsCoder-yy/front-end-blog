@@ -102,6 +102,7 @@
   </tr>
   <tr>
     <td>[凹凸实验室]: https://aotu.io/</td>
+    <td>[百度FE公共组件库]: https://www.baidufe.com/component</td>
     <td></td>
   </tr>
 </table>
