@@ -80,7 +80,9 @@
   <tr>
     <td>[三水清]: http://js8.in/</td>
     <td>[前端业界](http://www.imaifly.com/)</td>
-    <td></td>
+  </tr>
+  <tr>
+    <td>[洋洋]:http://www.cnblogs.com/zhuyang/</td>
   </tr>
 </table>
 ## 前端开发相关的UED团队地址
