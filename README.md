@@ -18,6 +18,7 @@
   </tr>
   <tr>
     <td>[CODING]: https://coding.net/projects</td>
+    
   </tr>
 </table>
 ## 前端开发相关的学习资源
@@ -80,6 +81,18 @@
   <tr>
     <td>[三水清]: http://js8.in/</td>
     <td>[前端业界](http://www.imaifly.com/)</td>
+  </tr>
+  <tr>
+    <td>[叶小钗]: http://www.cnblogs.com/yexiaochai</td>
+    <td>[艾伦 Aaron](http://www.cnblogs.com/aaronjs/)</td>
+  </tr>
+  <tr>
+    <td>[padding-me](http://yuehu.io/padding-me)</td>
+    <td>[]()</td>
+  </tr>
+  <tr>
+    <td>[]()</td>
+    <td>[]()</td>
   </tr>
   <tr>
     <td>[洋洋]:http://www.cnblogs.com/zhuyang/</td>
